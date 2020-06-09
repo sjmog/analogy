@@ -1,3 +1,19 @@
+# Analogy
+
+A tool to help you [capture your thoughts](https://www.notion.so/Analogy-1dbcb30dcbe8469f932dfc552c21dc19) in the way your brain processes them.
+
+### Aspirations
+
+- Capture notes and link them together with meaningful relations.
+- Build a knowledge base that works like your brain (both in terms of structure, querying, and spontaneous creativity),
+- Improve memory not just of single-concept spaces, but entire contextual subgraphs.
+- Add organically to your knowledge base by integrating other people's subgraphs into yours.
+- "Think, then link" – the 'power features' get out of your way, but encourage their own use.
+- "Know what you don't know" - identify both known unknowns (loosely-linked nodes) and unknown unknowns (subgraphs lacking clustering or heirarchy).
+- Discover + (serious) play with your own mind and memory.
+
+# Technicals
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -5,26 +21,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Deploy
 
-## Learn More
+Analogy is deployed on the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) (from the creators of Next.js).
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
